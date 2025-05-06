@@ -14,6 +14,7 @@ In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtail
 </br>
 
 ![Shopify Development Fundamentals](https://img.shields.io/badge/Shopify%20Development%20Fundamentals-Verified-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
+
 </br>
 
 ---
