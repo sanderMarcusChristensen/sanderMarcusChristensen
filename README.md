@@ -5,7 +5,7 @@
 Hey there! 👋  
 I’m **Sander**, a 23-year-old aspiring Full Stack Developer currently studying at **CPHBusiness**.
 
-By day, I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), where I contribute to: 
+In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), where I contribute to: 
 
 - Automating workflows with custom scripts in **Google Sheets** and **Excel**
 - Maintaining and updating legacy **Shopify apps** and backend systems
