@@ -13,8 +13,7 @@ In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtail
 - Assisting in **migrating clients to Shopify** from other platforms
 </br>
 
-![Shopify Development](https://img.shields.io/badge/Shopify%20Development-Verified-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
-
+![Shopify Development Fundamentals](https://img.shields.io/badge/Shopify%20Development%20Fundamentals-Verified-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
 </br>
 
 ---
