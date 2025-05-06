@@ -54,9 +54,14 @@ In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtail
 
 ### 🪄 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanderMarcusChristensen&show_icons=true&theme=city_lights" alt="Sander's GitHub Stats"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sanderMarcusChristensen&show_icons=true&theme=city_lights&hide_border=true&border_radius=10" alt="Sander's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderMarcusChristensen&layout=compact&theme=city_lights&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages Used" />
+
+</div>
+
 
 ---
 
