@@ -12,12 +12,10 @@ By day, I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), wh
 - Setting up **test development stores** for app testing and client previews
 - Assisting in **migrating clients to Shopify** from other platforms
 
-![Shopify Development Fundamentals](https://img.shields.io/badge/Shopify%20Fundamentals-Verified-blueviolet?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify Development](https://img.shields.io/badge/Shopify%20Development-Verified-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
 
 
-
-
---- 
+---
 
 ### 💻 Languages
 
@@ -28,6 +26,7 @@ By day, I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), wh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" width="40" height="40" title="Shopify Liquid" style="margin: 0 10px;"/>
 </p>
 
 ---
@@ -63,7 +62,7 @@ By day, I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), wh
 
 <p align="center">
   <a href="mailto:Sanderc69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Email me!" />
   </a>
 </p>
 
