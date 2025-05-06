@@ -3,12 +3,19 @@
 **`Digital Craftsman — Frontend, Backend & Everything In Between`**
 
 Hey there! 👋  
-As you’ve probably seen up top, I’m Sander — nice to meet you!
+I’m **Sander**, a 23-year-old aspiring Full Stack Developer currently studying at **CPHBusiness**.
 
-I'm a 23-year-old Full Stack Developer in training, currently studying at CPHBusiness.  
-Outside of class, I work at [Dtails.dk](https://dtails.dk/) as a student assistant, where I help automate everyday tasks using scripts in Google Sheets and Excel.
+By day, I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), where I contribute to: 
 
-Stay cool ❄️
+- Automating workflows with custom scripts in **Google Sheets** and **Excel**
+- Maintaining and updating legacy **Shopify apps** and backend systems
+- Setting up **test development stores** for app testing and client previews
+- Assisting in **migrating clients to Shopify** from other platforms
+
+![Shopify Development Fundamentals](https://img.shields.io/badge/Shopify%20Fundamentals-Verified-blueviolet?style=for-the-badge&logo=shopify&logoColor=white)
+
+
+
 
 --- 
 
