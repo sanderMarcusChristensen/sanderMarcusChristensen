@@ -14,6 +14,7 @@ By day, I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), wh
 
 ![Shopify Development](https://img.shields.io/badge/Shopify%20Development-Verified-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
 
+</br>
 
 ---
 
