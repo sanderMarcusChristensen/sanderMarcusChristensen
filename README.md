@@ -13,7 +13,10 @@ In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtail
 - Assisting in **migrating clients to Shopify** from other platforms
 </br>
 
+<img src="https://img.shields.io/badge/-Shopify-5E8E3E?style=flat-square&logo=shopify&logoColor=white" height="30" style="margin: 0 10px;" title="Shopify"/>
+
 ![Shopify Development Fundamentals](https://img.shields.io/badge/Shopify%20Development%20Fundamentals-Verified-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white)
+
 
 </br>
 
@@ -44,6 +47,7 @@ In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtail
 </p>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" height="40" title="DigitalOcean" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" style="margin: 0 10px;"/>
