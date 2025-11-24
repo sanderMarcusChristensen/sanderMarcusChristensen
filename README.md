@@ -3,7 +3,7 @@
 **`Digital Craftsman — Frontend, Backend & Everything In Between`**
 
 Hey there! 👋  
-I’m **Sander**, a 23-year-old aspiring Full Stack Developer currently studying at **CPHBusiness**.
+I’m **Sander**, a 24-year-old aspiring Full Stack Developer currently studying at **CPHBusiness**.
 
 In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), where I contribute to: 
 
