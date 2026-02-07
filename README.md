@@ -1,17 +1,14 @@
 # Sander Christensen
 
-**`Digital Craftsman — Frontend, Backend & Everything In Between`**
+**`Software Developer — Frontend, Backend & Practical Solutions`**
 
 Hey there! 👋  
-I’m **Sander**, a 24-year-old aspiring Full Stack Developer currently studying at **CPHBusiness**.
+I’m **Sander**, a 24-year-old software developer based in Copenhagen.
 
-In my free time , I work as a **Student Assistant** at [Dtails.dk](https://dtails.dk/), where I contribute to: 
+I’m a **Datamatiker graduate from Erhvervsakademi København**, where I focused on system development, programming, databases, and software design. My background is very hands-on, and I enjoy building solutions that work in practice — from backend logic and APIs to frontend interfaces and data-driven features.
 
-- Automating workflows with custom scripts in **Google Sheets** and **Excel**
-- Maintaining and updating legacy **Shopify apps** and backend systems
-- Setting up **test development stores** for app testing and client previews
-- Assisting in **migrating clients to Shopify** from other platforms
-</br>
+Previously, I worked as a **Student Assistant at DTAILS**, where I gained real-world experience with web development and backend systems in **Shopify environments**. My work included maintaining apps and backend logic, setting up test and development environments, automating workflows using **Google Sheets and Excel**, and assisting with client migrations to Shopify.
+
 
 <img src="https://img.shields.io/badge/-Shopify-5E8E3E?style=flat-square&logo=shopify&logoColor=white" height="30" style="margin: 0 10px;" title="Shopify"/>
 
