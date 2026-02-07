@@ -9,6 +9,11 @@ I’m a **Datamatiker graduate from Erhvervsakademi København**, where I focuse
 
 Previously, I worked as a **Student Assistant at DTAILS**, where I gained real-world experience with web development and backend systems in **Shopify environments**. My work included maintaining apps and backend logic, setting up test and development environments, automating workflows using **Google Sheets and Excel**, and assisting with client migrations to Shopify.
 
+I have a strong interest in **AI-assisted development and agent-based systems**.  
+As part of my final Datamatiker project, I built a **Python-based AI agent** using **OpenAI AgentKit** and **Model Context Protocol (MCP)**, where I implemented custom tools for querying a **PostgreSQL** database and returning structured results.  
+
+The project focused on practical use of AI agents, clean interfaces between models and tools, and deploying a working system to production.
+
 
 <img src="https://img.shields.io/badge/-Shopify-5E8E3E?style=flat-square&logo=shopify&logoColor=white" height="30" style="margin: 0 10px;" title="Shopify"/>
 
@@ -29,6 +34,8 @@ Previously, I worked as a **Student Assistant at DTAILS**, where I gained real-w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" width="40" height="40" title="Shopify Liquid" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" style="margin: 0 10px;"/>
+
 </p>
 
 ---
@@ -41,6 +48,9 @@ Previously, I worked as a **Student Assistant at DTAILS**, where I gained real-w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" title="Unity" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40" title="Heroku" style="margin: 0 10px;"/>
+
+
 </p>
 
 <p align="center">
@@ -49,19 +59,22 @@ Previously, I worked as a **Student Assistant at DTAILS**, where I gained real-w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" height="40" title="DigitalOcean" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" style="margin: 0 10px;"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" height="30" title="OpenAI"/>
+
 </p>
 
 ---
 
 ### 🪄 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanderMarcusChristensen&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sanderMarcusChristensen&show_icons=true&theme=city_lights&hide_border=true&border_radius=10" alt="Sander's GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanderMarcusChristensen&layout=compact&theme=city_lights&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages Used" />
-
-</div>
 
 
 ---
@@ -70,8 +83,13 @@ Previously, I worked as a **Student Assistant at DTAILS**, where I gained real-w
 
 <p align="center">
   <a href="mailto:Sanderc69@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Email me!" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" title="Email me!" style="margin: 0 10px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sander-marcus-christensen-47921139a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="Connect on LinkedIn" style="margin: 0 10px;" />
   </a>
 </p>
+
 
 ---
